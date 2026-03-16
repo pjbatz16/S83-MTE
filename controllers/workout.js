@@ -1,5 +1,5 @@
 const User = require("../models/user");
-const Workout = require("../models/Workout");
+const Workout = require("../models/workout");
 const auth = require("../auth");
 
 const { errorHandler } = auth;
